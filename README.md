@@ -1,18 +1,26 @@
-🔐 Password Manager
-A modern, easy-to-use Password Manager built with React and styled with Tailwind CSS. This app allows users to generate secure passwords and store them conveniently. Get ready to streamline password management with a clean and intuitive interface!
+# 🔐 Password Manager
 
-🌐 Live Demo: Password Manager
+A sleek and secure **Password Manager** built with **React**, styled using **Tailwind CSS**, and structured with **HTML**. Designed for simplicity, this app generates and manages complex passwords, helping you keep your accounts safe with minimal hassle.
 
-<!-- Add a relevant screenshot or GIF here -->
-![image](https://github.com/user-attachments/assets/6478ab2f-83de-4d3f-9d6a-908fdbbf93bb)
+🌐 **[Live Demo](https://mehedi832766.github.io/05passwordGen/)**
 
-🚀 Features
-Secure Password Generation: Create strong passwords with customizable length and character types.
-Efficient Storage: Easily save and manage your generated passwords.
-User-Friendly Interface: Clean, responsive UI powered by Tailwind CSS for an enhanced user experience.
-Clipboard Copying: Quickly copy passwords to your clipboard with a single click.
+![Password Manager Screenshot](https://user-images.githubusercontent.com/your-screenshot.png) <!-- Replace with your actual screenshot URL -->
 
-🛠️ Tech Stack
-React – Fast, component-based UI.
-Tailwind CSS – Rapidly style your app with modern utility classes.
-HTML – Basic structure and layout.
+---
+
+## 🚀 Features
+
+- **Generate Strong Passwords**: Choose from multiple configurations for password length and character types.
+- **Clipboard Copying**: Quickly copy passwords with a click.
+- **User-Friendly Interface**: Built for seamless interaction and responsive on all devices.
+- **Effortless Management**: Save, retrieve, and organize passwords with ease.
+
+---
+
+## 🛠️ Tech Stack
+
+- **React** – Fast and modular component-based UI.
+- **Tailwind CSS** – For rapid and modern styling.
+- **HTML** – Fundamental structure of the app.
+
+---
