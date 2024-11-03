@@ -4,8 +4,7 @@ A sleek and secure **Password Manager** built with **React**, styled using **Tai
 
 🌐 **[Live Demo](https://mehedi832766.github.io/05passwordGen/)**
 
-![Password Manager Screenshot](![image](https://github.com/user-attachments/assets/68528ad8-b580-4889-beda-bce8231c1698)
-) <!-- Replace with your actual screenshot URL -->
+![Password Manager Screenshot](https://github.com/user-attachments/assets/68528ad8-b580-4889-beda-bce8231c1698) <!-- Replace with your actual screenshot URL -->
 
 ---
 
