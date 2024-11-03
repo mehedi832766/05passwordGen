@@ -1,8 +1,18 @@
-# React + Vite
+🔐 Password Manager
+A modern, easy-to-use Password Manager built with React and styled with Tailwind CSS. This app allows users to generate secure passwords and store them conveniently. Get ready to streamline password management with a clean and intuitive interface!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🌐 Live Demo: Password Manager
 
-Currently, two official plugins are available:
+<!-- Add a relevant screenshot or GIF here -->
+![image](https://github.com/user-attachments/assets/6478ab2f-83de-4d3f-9d6a-908fdbbf93bb)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Features
+Secure Password Generation: Create strong passwords with customizable length and character types.
+Efficient Storage: Easily save and manage your generated passwords.
+User-Friendly Interface: Clean, responsive UI powered by Tailwind CSS for an enhanced user experience.
+Clipboard Copying: Quickly copy passwords to your clipboard with a single click.
+
+🛠️ Tech Stack
+React – Fast, component-based UI.
+Tailwind CSS – Rapidly style your app with modern utility classes.
+HTML – Basic structure and layout.
